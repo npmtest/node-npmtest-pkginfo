@@ -1,4 +1,7 @@
-# test coverage for  [pkginfo (v0.4.0)](https://github.com/indexzero/node-pkginfo#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pkginfo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pkginfo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pkginfo.svg)](https://travis-ci.org/npmtest/node-npmtest-pkginfo)
+# npmtest-pkginfo
+
+#### basic test coverage for  [pkginfo (v0.4.0)](https://github.com/indexzero/node-pkginfo#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pkginfo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pkginfo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pkginfo.svg)](https://travis-ci.org/npmtest/node-npmtest-pkginfo)
+
 #### An easy way to expose properties on a module from a package.json
 
 [![NPM](https://nodei.co/npm/pkginfo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pkginfo)
